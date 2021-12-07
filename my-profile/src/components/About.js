@@ -26,6 +26,7 @@ function About() {
                 </div>
                 <div class="column-wide">
                   <p>
+                      <img src = "../images/cristianeAbreu.jpg"/>
                     I Created and updated WordPress websites, created web app using  JQuery, react, Mongo DB, Node js, MySQL, Bootstrap, 
                     created customized website hand on HTML, CSS, JavaScript, customizing HTML and CSS templates in order to meet clients need.
                      Used Google Analytic, Google Tag Manager, Lead Forensics and buffer in order to analyze and identify each lead. Used Google 

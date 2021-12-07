@@ -1,4 +1,3 @@
-import logo from '../App';
 import '../App.css';
 
 /*
