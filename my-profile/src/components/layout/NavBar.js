@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
 
-export class NavBar extends Component {
+ class NavBar extends Component {
     static defaultProps = {
         title: 'Github Finder',
         icon:'fab fa-github'
@@ -23,4 +23,4 @@ export class NavBar extends Component {
     }
 }
 
-export default NavBar
+export default NavBar;
